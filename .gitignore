@@ -8,5 +8,6 @@ dist/
 .env
 *.log
 venv/
+.vscode/
 
 
