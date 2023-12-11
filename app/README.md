@@ -4,8 +4,8 @@ This project demonstrates how to build a FastAPI application with JWT token auth
 
 ### Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
-2. Navigate to the project directory: `cd your-repo`
+1. Clone the repository: `git clone https://github.com/musalser/EngTeach.git`
+2. Navigate to the project directory: `cd EngTeach`
 3. Create a virtual environment: `python -m venv venv`
 4. Activate the virtual environment:
     - On Windows: `venv\Scripts\activate`
